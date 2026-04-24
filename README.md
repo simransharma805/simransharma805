@@ -45,8 +45,10 @@ Data Science & AI practitioner with hands-on experience across the full data and
 
 ---
 
+## ⚡ Fun Fact
+
+🤖 I taught machines to learn before I learned to cook
+
+---
+
 *Open to research collaborations, academic projects, and open-source contributions.*
-
-- ⚡ Fun fact: ...
-
--->🤖 I taught machines to learn before I learned to cook
