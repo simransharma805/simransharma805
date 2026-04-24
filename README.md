@@ -1,4 +1,4 @@
-# Hi, I'm Simran Sharma 👋
+
 
 <!--Hi, I'm Simran Sharma 👋
 Data Science & AI practitioner with hands-on experience across the full data and ML pipeline — from raw data to scalable models to meaningful insights.
@@ -6,29 +6,46 @@ Data Science & AI practitioner with hands-on experience across the full data and
 
 Here are some ideas to get you started:
 
---> Data Science & AI practitioner with hands-on experience across the full data and ML pipeline — from raw data to scalable models to meaningful insights.
+--> 
+# Hi, I'm Simran Sharma 👋
 
+Data Science & AI practitioner with hands-on experience across the full data and ML pipeline — from raw data to scalable models to meaningful insights.
 
-- 🔭 What I'm Working On
+---
 
-Multi-Agent AI Research System — Building an autonomous research pipeline using LangChain where multiple AI agents collaborate to retrieve, analyze, and synthesize information. Exploring how agent orchestration can accelerate knowledge discovery.
+## 🔭 What I'm Working On
 
-- 🛠️ Tools & Technologies
+**Multi-Agent AI Research System** — Building an autonomous research pipeline using LangChain where multiple AI agents collaborate to retrieve, analyze, and synthesize information. Exploring how agent orchestration can accelerate knowledge discovery.
 
-Languages : Python, R
+---
 
-Machine Learning & AI : Scikit-Learn, LangChain, NumPy, Pandas, Matplotlib, Seaborn
+## 🛠️ Tools & Technologies
 
-Data Engineering : Hadoop, Spark, MySQL, SQLite
+**Languages**
+`Python` `R`
 
-Visualization & Reporting :Tableau Power BI Excel
+**Machine Learning & AI**
+`Scikit-Learn` `LangChain` `NumPy` `Pandas` `Matplotlib` `Seaborn`
 
-Other : Twilio
+**Data Engineering**
+`Hadoop` `Spark` `MySQL` `SQLite`
 
-- 📬 Let's Connect
-- 💼 LinkedIn : https://www.linkedin.com/in/simran-sharma-053778284/
+**Visualization & Reporting**
+`Tableau` `Power BI` `Excel`
 
-Open to research collaborations, academic projects, and open-source contributions.
+**Other**
+`Twilio`
+
+---
+
+## 📬 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/simran-sharma-053778284/)
+- 🐙 [GitHub](https://github.com/simransharma805)
+
+---
+
+*Open to research collaborations, academic projects, and open-source contributions.*
 
 - ⚡ Fun fact: ...
 
