@@ -1,4 +1,4 @@
-
+# Hi, I'm Simran Sharma 👋
 
 <!--Hi, I'm Simran Sharma 👋
 Data Science & AI practitioner with hands-on experience across the full data and ML pipeline — from raw data to scalable models to meaningful insights.
@@ -6,8 +6,7 @@ Data Science & AI practitioner with hands-on experience across the full data and
 
 Here are some ideas to get you started:
 
--->Hi, I'm Simran Sharma 👋
-Data Science & AI practitioner with hands-on experience across the full data and ML pipeline — from raw data to scalable models to meaningful insights.
+--> Data Science & AI practitioner with hands-on experience across the full data and ML pipeline — from raw data to scalable models to meaningful insights.
 
 - 🔭 What I'm Working On
 
