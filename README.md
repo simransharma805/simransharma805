@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<!--
+<!--Hi, I'm Simran Sharma 👋
+Data Science & AI practitioner with hands-on experience across the full data and ML pipeline — from raw data to scalable models to meaningful insights.
 **simransharma805/simransharma805** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
