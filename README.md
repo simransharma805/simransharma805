@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 
 --> Data Science & AI practitioner with hands-on experience across the full data and ML pipeline — from raw data to scalable models to meaningful insights.
 
+
 - 🔭 What I'm Working On
 
 Multi-Agent AI Research System — Building an autonomous research pipeline using LangChain where multiple AI agents collaborate to retrieve, analyze, and synthesize information. Exploring how agent orchestration can accelerate knowledge discovery.
