@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--Hi, I'm Simran Sharma 👋
 Data Science & AI practitioner with hands-on experience across the full data and ML pipeline — from raw data to scalable models to meaningful insights.
@@ -9,11 +9,11 @@ Here are some ideas to get you started:
 -->Hi, I'm Simran Sharma 👋
 Data Science & AI practitioner with hands-on experience across the full data and ML pipeline — from raw data to scalable models to meaningful insights.
 
--->🔭 What I'm Working On
+- 🔭 What I'm Working On
 
 Multi-Agent AI Research System — Building an autonomous research pipeline using LangChain where multiple AI agents collaborate to retrieve, analyze, and synthesize information. Exploring how agent orchestration can accelerate knowledge discovery.
 
--->🛠️ Tools & Technologies
+- 🛠️ Tools & Technologies
 
 Languages : Python, R
 
