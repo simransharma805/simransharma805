@@ -9,22 +9,24 @@ Here are some ideas to get you started:
 -->Hi, I'm Simran Sharma 👋
 Data Science & AI practitioner with hands-on experience across the full data and ML pipeline — from raw data to scalable models to meaningful insights.
 
-🔭 What I'm Working On
+-->🔭 What I'm Working On
+
 Multi-Agent AI Research System — Building an autonomous research pipeline using LangChain where multiple AI agents collaborate to retrieve, analyze, and synthesize information. Exploring how agent orchestration can accelerate knowledge discovery.
 
-🛠️ Tools & Technologies
-Languages Python R
+-->🛠️ Tools & Technologies
 
-Machine Learning & AI Scikit-Learn LangChain NumPy Pandas Matplotlib Seaborn
+Languages : Python, R
 
-Data Engineering Hadoop Spark MySQL SQLite
+Machine Learning & AI : Scikit-Learn, LangChain, NumPy, Pandas, Matplotlib, Seaborn
 
-Visualization & Reporting Tableau Power BI Excel
+Data Engineering : Hadoop, Spark, MySQL, SQLite
 
-Other Twilio
+Visualization & Reporting :Tableau Power BI Excel
 
-📬 Let's Connect
-💼 LinkedIn : https://www.linkedin.com/in/simran-sharma-053778284/
+Other : Twilio
+
+- 📬 Let's Connect
+- 💼 LinkedIn : https://www.linkedin.com/in/simran-sharma-053778284/
 
 Open to research collaborations, academic projects, and open-source contributions.
 
